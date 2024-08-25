@@ -277,5 +277,5 @@ if __name__ == "__main__":
 
 Lưu ý: Script này chỉ là một giải pháp mẫu và có thể cần được điều chỉnh theo yêu cầu cụ thể của hệ thống và môi trường mạng của bạn.
 
-![Screenshot 2024-07-11 at 10-36-10 NUOC MAT DAU THE ROI Rmx_Mấbel by Jme Mabel](/home/godhunter7/Documents/may-chi-doan-hung-xinh/Screenshot 2024-07-11 at 10-36-10 NUOC MAT DAU THE ROI Rmx_Mấbel by Jme Mabel.png)
+
 
